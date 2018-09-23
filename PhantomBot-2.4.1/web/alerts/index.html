@@ -1,0 +1,61 @@
+<!--
+
+ Copyright (C) 2016-2018 phantombot.tv
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+ @author IllusionaryOne
+-->
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <!-- Title -->
+        <title>PhantomBot Alerts</title>
+
+        <!-- Main styles. -->
+        <style>
+            body {
+                background-color: transparent;
+            }
+
+            .main-alert {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+        </style>
+
+        <!-- Load our favicon -->
+        <link rel="icon" href="/favicon.ico" />
+    </head>
+
+    <!-- Main body -->
+    <body>
+        <div class="main-alert">
+            <!-- Where the gif gets played. -->
+            <div id="alert"></div>
+        </div>
+
+        <!-- jQuery -->
+        <script src="/common/js/jquery-ui/external/jquery/jquery.min.js"></script>
+        <!-- Bot config file -->
+        <script src="/common/js/wsConfig.js"></script>
+        <!-- Reconnecting socket -->
+        <script src="/alerts/js/reconnectingWS.min.js"></script>
+        <!-- File that handles alerts -->
+        <script src="/alerts/js/index.js"></script>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+[09-23-2018 @ 06:42:20.575 GMT] peterroxible: test
+[09-23-2018 @ 06:42:31.032 GMT] peterroxible: test
+[09-23-2018 @ 06:47:00.049 GMT] chokebot_5000: @peterroxible, Usage: !multi [set / clear / timer / timerinterval]
+[09-23-2018 @ 06:47:00.051 GMT] peterroxible: !multi
+[09-23-2018 @ 06:49:49.275 GMT] chokebot_5000: @peterroxible, Highlights can only be set when the stream is online.
+[09-23-2018 @ 06:49:49.276 GMT] peterroxible: !highlight
+[09-23-2018 @ 06:50:30.628 GMT] chokebot_5000: All commands are disabled for 5 minutes..
+[09-23-2018 @ 06:50:33.947 GMT] chokebot_5000: All commands are enabled again.
+[09-23-2018 @ 06:50:37.592 GMT] chokebot_5000: /w chokebot_5000 [Whisper Mode] has been enabled.
+[09-23-2018 @ 06:50:40.965 GMT] chokebot_5000: @chokebot_5000, [Whisper Mode] has been disabled.
+[09-23-2018 @ 06:50:52.049 GMT] chokebot_5000: @chokebot_5000, Chat output wil be prepended with "/me".
+[09-23-2018 @ 06:50:58.965 GMT] peterroxible: test
+[09-23-2018 @ 06:51:03.790 GMT] peterroxible: /me test
+[09-23-2018 @ 06:51:34.195 GMT] chokebot_5000: @peterroxible, Commands: !uptime, !followage, !playtime, !title, !game, !age, !permit, !moderation, !mod, !blacklist, !whitelist, !lang, !mute, !toggleme, !pausecommands, !log, !togglewhispermode, !coolcom, !cooldown, !permission, !permissions, !permissionlist, !permissionpoints, !users, !mods, !streamertime, !timezone, !time, !chat, !module, !echo, !reconnect, !disconnect, !chokebot_5000, !addcom, !pricecom, !paycom, !aliascom, !delalias, !delcom, !editcom
+[09-23-2018 @ 06:51:34.197 GMT] chokebot_5000: @peterroxible, Total Pages: 5 [See also: https://phantombot.tv/commands]
+[09-23-2018 @ 06:51:34.198 GMT] peterroxible: !botcommands
+[09-23-2018 @ 06:51:39.370 GMT] chokebot_5000: @peterroxible, peterroxible is currently offline.
+[09-23-2018 @ 06:51:39.371 GMT] peterroxible: !uptime
+[09-23-2018 @ 06:52:09.715 GMT] chokebot_5000: @peterroxible,  peterroxible has been on Twitch since February 17, 2014. (Joined 1678 days ago)
+[09-23-2018 @ 06:52:09.716 GMT] peterroxible: !age
+[09-23-2018 @ 06:52:20.548 GMT] chokebot_5000: @peterroxible, Usage: !moderation [links / caps / symbols / spam / emotes / colors / longmessages / spamtracker / fakepurge / regulars / subscribers / silenttimeout]
+[09-23-2018 @ 06:52:20.549 GMT] chokebot_5000: @peterroxible, Usage: !moderation [linksmessage / capsmessage / symbolsmessage / spammessage / emotesmessage / colorsmessage / blacklistmessage / blacklistmessageban / longmsgmessage / spamtrackermessage / fakepurgemessage]
+[09-23-2018 @ 06:52:20.549 GMT] chokebot_5000: @peterroxible, Usage: !moderation [capstriggerlength / capslimit / symbolstriggerlength / symbolslimit / symbolsgrouplimit / spamlimit / emoteslimit / spamtrackerlimit / spamtrackertime / permittime / warningtime / timeouttime / messagecooldown / messagecharacterlimit / warningresettime]
+[09-23-2018 @ 06:52:20.550 GMT] peterroxible: !moderation
+[09-23-2018 @ 06:52:46.395 GMT] chokebot_5000: @peterroxible, Usage: !coolcom [command] [seconds] [type (global / user)] - Using -1 for the seconds removes the cooldown.
+[09-23-2018 @ 06:52:46.395 GMT] peterroxible: !coolcom
+[09-23-2018 @ 06:53:11.043 GMT] peterroxible: !echo
+[09-23-2018 @ 06:53:16.673 GMT] peterroxible: test
+[09-23-2018 @ 06:53:18.312 GMT] peterroxible: !echo
+[09-23-2018 @ 06:53:43.567 GMT] peterroxible: !permit
+[09-23-2018 @ 06:53:47.333 GMT] chokebot_5000: @peterroxible, It is currently September 23, 2018 06:53:47 AM GMT (+0000) where peterroxible is located.
+[09-23-2018 @ 06:53:47.335 GMT] peterroxible: !streamertime
+[09-23-2018 @ 06:54:03.097 GMT] chokebot_5000: @chokebot_5000, Chat output will be normal text. (without /me)

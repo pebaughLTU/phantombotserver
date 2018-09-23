@@ -1,0 +1,19 @@
+#PhantomBot Configuration File
+#Sun Sep 23 02:37:39 EDT 2018
+apioauth=oauth\:8a91vb6j03adxs7xbxwfrzlasqxjju
+baseport=25000
+channel=peterroxible
+msglimit30=19.0
+musicenable=true
+oauth=oauth\:z6bm7mmqofhew7gixos0d0wem0lp87
+owner=peterroxible
+panelpassword=Degus123\!
+paneluser=peterroxible
+usehttps=false
+user=chokebot_5000
+webauth=1DUI4K90vP10BD0wDayllJdSjSGDfX
+webauthro=Il1JBG1UnBQvHk6Vqt4F7bFqIKTJOx
+webenable=true
+whisperlimit60=60.0
+ytauth=uEFFzxGDqgfMLArsZBHvT8039dQoVC
+ytauthro=9qItNZNUohDssTdDX5vyhhu5EI08hQ
